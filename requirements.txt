@@ -1,6 +1,7 @@
 tensorflow==2.13.0
-numpy
-opencv-python
+numpy==1.24.3
+opencv-python==4.8.1.78
 matplotlib
 scikit-learn
-pillow
+Pillow
+streamlit
